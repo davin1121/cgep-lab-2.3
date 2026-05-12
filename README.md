@@ -73,4 +73,4 @@ terraform destroy -var="project_name=cgep-lab" -var="environment=dev"
 
 ## Part of the CGE-P Certification
 
-This lab is part of the [GRC Engineering Professional (CGE-P)](https://github.com/GRCEngClub/cgep-labs) certification program by GRCEngClub. The modular structure built here is reused and extended through Chapter 7's capstone.
+This lab is part of the [GRC Engineering Practitioner (CGE-P)](https://github.com/GRCEngClub/cgep-labs) certification program by GRCEngClub. The modular structure built here is reused and extended through Chapter 7's capstone.
