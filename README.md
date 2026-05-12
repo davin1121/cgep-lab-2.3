@@ -1,6 +1,6 @@
 # CGE-P Lab 2.3 — Building Your First Compliant Resource (AWS S3)
 
-Terraform deployment of a NIST 800-53 compliant AWS S3 bucket built as part of the GRC Engineering Professional (CGE-P) certification program by GRCEngClub.
+Terraform deployment of a NIST 800-53 compliant AWS S3 bucket built as part of the GRC Engineering Practitioner (CGE-P) certification program by GRCEngClub.
 
 ## What This Lab Does
 
